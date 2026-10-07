@@ -1,0 +1,7 @@
+[
+  {"question": "What are your opening hours?", "keywords": ["hours", "open", "close", "closing"], "answer": "We're open Tuesday to Sunday, 11am to 10pm. We're closed on Mondays."},
+  {"question": "Do you take reservations?", "keywords": ["reservation", "reserve", "book", "table"], "answer": "Yes. We take reservations for up to 8 people by phone or on our website. Larger groups can ask about the private room."},
+  {"question": "Where do I park?", "keywords": ["park", "parking", "garage"], "answer": "There's a public garage on 4th Street, one block away. Street parking is free after 6pm."},
+  {"question": "Do you have vegetarian or gluten-free options?", "keywords": ["vegetarian", "vegan", "gluten", "allergy", "dietary"], "answer": "Yes. About a third of the menu is vegetarian, and most dishes can be made gluten-free. Please tell your server about allergies."},
+  {"question": "Do you have a happy hour?", "keywords": ["happy hour", "drinks", "specials"], "answer": "Happy hour is Tuesday to Friday, 3pm to 6pm, at the bar and on the patio."}
+]
